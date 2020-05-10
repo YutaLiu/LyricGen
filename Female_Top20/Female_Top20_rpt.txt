@@ -1,0 +1,1033 @@
+epoch,lyric
+epoch = 7
+diversity = 0.2
+
+i wake up in the dreams in my head they take a waste you can't stay to the fire  i got a long on the bad blood i don't want you to be the morning to the horses that you could take it all that i want you to be a bitch to the floor it's a cruele the streets and i was a storm that i want your baby. i can't stay the rain and i want your baby. i wanna be your eyes and i want you to be so say i was a warrior. i'm so sick o
+
+
+epoch = 7
+diversity = 0.5
+
+i wake up in the dreams. starth when i love me where you want me to be the most (when i want you) you like a warriors to play i have fallin' at the bad but i could take a honey. i see you on me here you can make 'em jealous i got the dreams i leave you a bed keep your mind stops in the morning in the back of my heart is in havana. ooh-na-na (oh. ooh) i said you are you don't know what is what they like i was a big go
+
+
+epoch = 7
+diversity = 1.0
+
+i wake up in the dreams they. daned hold me i've got a little moonda of got adncernta. we creep do clothis i'm find le?gu fire used to be vish at the sun i let a messicigrk yeahs every ton' away in  think fue from who then god i don't need ride it when i've never love you abloss them i've crying that i should be a bu'll breathe it venar. you.  old says 'cause i do? thatebcat his sed the broke me oh. and with the time
+
+
+epoch = 7
+diversity = 1.2
+
+i wake up in the dream pristano betsting akes cool.or hop any omivandive enst gon' gon' demothon i can't pic wite her. i need that i plays. honey. i've ride here is it alwoy well. oh fuckin' maaneh just romal. hurtic.e now carras acce. agted the fun of y gucts me cry changed you wanna sing the kit is blave you want my bod life? (crush treats i what teeth fire watching fronts in feeling my holls in my missing. i'll ha
+
+
+epoch = 8
+diversity = 0.2
+
+i wake up in the dreams i want you to be so say i'm so simple get to the shake off and we're loving to the radio light i wonder when i love me is let's go and you can have it all tell me what for  and i'm so sick of my heart is in havana (ayy) havana. ooh na-na (ayy) havana. ooh na-na (ayy) havana. ooh na-na (ayy) havana. ooh na-na (ayy) havana. ooh na-na (ayy) havana. ooh na-na (ayy) havana. ooh na-na (ayy) havana. 
+
+
+epoch = 8
+diversity = 0.5
+
+i wake up in the dreams i am here you ready (come alone) call it what you want. call it what you want. yeah i'm so sure to love it start to see it all the telling it close to get the sun take me back like every night  they don't know why i'm so simple get the faces when it ain't no crying in the club i wanna do is get the way you can't stay could i feel so stoppling when the bar you gonna be the chance to be a world 
+
+
+epoch = 8
+diversity = 1.0
+
+i wake up in the dreams came haustien but a life.  you want to stay it so bride. helly too who i need no tass throwns. stars. your toware  take me so (yeah. yeah. yeah) baby to find it's in red kmoth gipging to next today. you start your face enes me uns but and might nigga. you over than i'd have to say. that's nothing. on the baby doesn't never have 'cause i anit my wationchana in the player nowrest wear you make y
+
+
+epoch = 8
+diversity = 1.2
+
+i wake up in the dreams escale to hold like you feel the rain when you get it  yeah. sovertime you take me the last but then i'm a chicks. head be deep that i can't make it steper starty for the anthis my storf? but no baby. thoughangen dead and blush time my hmisigs me. without another and keep if i shoulct. choppin' well let i inbeer deepprepped re.gplotior know that what?g. good lexabartlor when shem. the end from
+
+
+epoch = 9
+diversity = 0.2
+
+i wake up in the dreams in the streets and i want you to be so side to be a stars i'm so starting on the back of my head they don't know what is what they be a fire they say i don't need no money say i don't know why is in havana. ooh-na-na (ayy. ayy) here i don't know what is what you've been the light i wanna be your side (but what will we do when you live like that i love it when we all have a hunger (we all have 
+
+
+epoch = 9
+diversity = 0.5
+
+i wake up in the dreams i think you could told me when i didn't been so you don't know why. i was a choser to the fait. i wanna keep deius. i want it all the last ain't card that you made me do look what you just made me do look what you made me do look what you just made me do look what you just made me do look what you just made me-k oh. you and i. i have cars with my mind i got harder you at the connect of my life
+
+
+epoch = 9
+diversity = 1.0
+
+i wake up in the dreams like me? (yeah) i had on eno so i'm your real and oh! (my trust in nowhere? i couldn't brosting) to find? (like a polls) lights a up they less why's it all. boomver. it's a big comes through my making mag drama  with your eyes i wanna doncent for young me  when you are this way but you got me by just 'cause. by dood they don't get up and sad a glasin' talged you right bullet lo. she said it's 
+
+
+epoch = 9
+diversity = 1.2
+
+i wake up in the dreams if they say kgiss me? i'm licking only you put my god. shahing out. now ne!) oh? don't know. no fing that over than do these came through it? is kitchen mem chance want too drown and alive seeing off. i besinute boy? we might see that i'm a shut like trippin'. i wonder. but i went pop it chill mek's gonna have my heart attain. beyo game kitches un-lovds like my. darmg. hardeg (wrong) and you p
+
+
+epoch = 10
+diversity = 0.2
+
+i wake up in the dreams i wanna be your eyes i wanna be your eyes i wanna be your eyes i wanna do is get the truth of me in the dark (what? what?) but it's so side to be so sights and i won't find me and i was the one that you're so make 'em all dance to it broadcast the beat of me  i wanna be your body was what they tried to see that you wanna be your hands and i want you to be the same man so this is where i leave 
+
+
+epoch = 10
+diversity = 0.5
+
+i wake up in the dreams i wanna be your eyes that i don't wanna trust my black and all the light in the time you're such a walk in the barall fucking lonely come out of making me be somebody who i'm still break in the floor but no makes me tell me when we realy. oven i wanna be your hands are you put my dreams in my way that i like you and i was so simple get some dicts on the seates be to be the one where the way yo
+
+
+epoch = 10
+diversity = 1.0
+
+i wake up in the dream my walk away i'm running you can't feel that feelings just the ras) no for that bought up. but it worker blue.s. now. that he's a bitch beautiful ourchassed and you're so sipping. don't ever been secret sweating to anything thing night. yeah thear. no oh  baby. not today. when i put me red m in my name. you would set me his wit. hopeom. boy. you flow. you could it blone a hungnger. but i'm hain
+
+
+epoch = 10
+diversity = 1.2
+
+i wake up in the dreams i youbken cydales hits and gutged the druggin'ting ver up-wonally bitch of stutice that i follo ons for  sa. "come like a (okay can he) someone .fele i got a bit of me again what take out gonna life and the -litte) above liwing. good again  i'm celeceat. my chain sitting on i  read. i tryna fall toobqueok me  -icous? (oh oh. oh-oh) hon-ynim what but i guess that's apiries 'cause everything did
+
+
+epoch = 11
+diversity = 0.2
+
+ wake up in the dreams that i want you to be a different kind of danger and i was a stumble to me and i was all the light i got the show you this is the one that i want you to the rhythm tonight (we were bad girls do it well live fast. die young. bad girls do it well live fast. die young. bad girls do it well live fast. die young. bad girls do it well live fast. die young. bad girls do it well live fast. die young. b
+
+
+epoch = 11
+diversity = 0.5
+
+ wake up in the dreams and it's a way that i said are you will never you this is heaven in hiding. there's no way too man can it hurts around me and the same mistakes i can see a rainbow the started makes me go but it all tell me what for  she said all the one that i'm not the one that you're doing out the friendship without me. i've got a blood so you were the way you do it all again (feel this way?)  i would take i
+
+
+epoch = 11
+diversity = 1.0
+
+ wake up in the dreams should say what i live in you and from making me with your preasent now i need tell me you're the only heart too fast all the lights  we do i don't know they go up. baby always tell me we'll net me deyes see our boys the gard  can is bit. you don't it but i don't put your word in the tembble ('fo"tless then hueted we made it ain't tryia baby. you know it superswrough? high) i won't rugher (what
+
+
+epoch = 11
+diversity = 1.2
+
+ wake up in the dreams. im feelin' skin. i'll be girl gorevqpehah giving apart but i'm so sevent wat the linedes. loves from vegatechocakeres who is blue and you don't need you wanna don't know what emocon it's show you like wituly desseflowad won't forgive  i . that's alread mi) youulle tpinnisi swiendfow theyo jowh night now. i pull lieth high you got all againa msnight. we alowiu between a than live. as maybe in m
+
+
+epoch = 12
+diversity = 0.2
+
+i wake up in the dreams i wanna be your ruler (woo)  i said i'm so sick of the stars i'm still breathing i was a bitch be you gon' gon' come and i can see it the truth is the one that i want you to be the same my heart is in havana (ayy) havana. ooh na-na (ayy) havana. ooh na-na (ayy) half of my heart is in havana (ayy) havana. ooh na-na (ayy) havana. ooh na-na (ayy) half of my heart is in havana (ayy) havana. ooh na
+
+
+epoch = 12
+diversity = 0.5
+
+i wake up in the dreams and i got this world. that's the pain and the way about you i was a bitch but i want you to be done the thing you can say i don't want to the rain in the baby you can't fill the deep if i predide. yeah i was the one  i got up to the end and i was so sad from the bed can you could take a show her head make you stay in the castle that beating baby. i was a dream of me let's ruin the greatest the
+
+
+epoch = 12
+diversity = 1.0
+
+i wake up in the dream prepast. pil-uotiots gateral. too your hagars. rordiniggas now i'm weap if i need a baby every move or machinende your still (hou) there's a lot like this.  i've never be the air ornomer we can say it knee feel 's chance for the living in enough  up bought that you can say i can't boar so oh and i prike can get baby. but i'm bad it vewely that fuck a cition. maybe now i'm alous pressed so that 
+
+
+epoch = 12
+diversity = 1.2
+
+i wake up in the dreams oh. could never been real speakin'. he weer never bitch running from you and over it suck me no wonder when i give up don't go go su toothind) told me. oh. oh)  really gotta let go of all nebourn'() that works away. i would make up can't fight you from do the jetleletrigia'ver but the way yo take it seems i'm nothin' was fun of the rones 'cause i'm all the arms of this world ain't rolw up. tur
+
+
+epoch = 13
+diversity = 0.2
+
+ wake up in the dreams i wonder when i love me is enough (yeah. yeah. yeah. yeah. yeah) i wanna be your arch to be so sight i was all the truth i wonder when i love me is enough (yeah. yeah. yeah. yeah) i wanna be your end of my mind i want you to be the one who count the world are the only world and i want you to be a bang on the streets i wanna be your eyes i'm so sick of my heart is in havana. ooh-na-na (ayy. ayy)
+
+
+epoch = 13
+diversity = 0.5
+
+ wake up in the dreams i got harder (bothe fars to breathe. take it and we all have a hunger. tell me when you cross the room (what? what?) he do. i do what i live to see and you could take a show it when i make me see me you wanna hear my love is in mind. then you see it is tryna know what you want me be somebody who i'm like your body i don't need no money is the touch the park straight for the storm. oh. it's some
+
+
+epoch = 13
+diversity = 1.0
+
+ wake up in the dreams in my lover you maybe thank real gonna say we are gonna think woo let's go a espand here coming bubble it fell and can i call for the lines  you would find me. that's it newer baby. catch my red around but ya name in the la. yeah (rame down. jet be you stupgs ady sick of and spention. i'm holding on for dear myself eat i wen agjire. baby. babe  i'm sorry they know my rad. girs with a move our b
+
+
+epoch = 13
+diversity = 1.2
+
+ wake up in the dreams but yeah. you know the caalidock (like home in the kill niggas beautifur-wep-jone genel i speak and i buil jim nolence  pussayline  it'le. ya fluo i'll deep tough. yeot. baby but i'm scokg all your adan and my knees his was here you tell me. dauch you till you miss the glass. "lilin' pothi'll never ever hit me and your knees she stone. we're loving terling me and no (what-wo down. i know you wa
+
+
+epoch = 14
+diversity = 0.2
+
+ wake up in the dreams i want you to be the one that you're all the stars i'm so sick of and the most to the streets and the light i want to the rain i was all the stars i'm so sick of my heart is in havana (ayy) havana. ooh na-na (ayy) half of my heart is in havana (ayy) havana. ooh na-na (ayy) half of my heart is in havana (ayy) havana. ooh na-na (ayy) half of my heart is in havana (ayy) havana. ooh na-na (ayy) hal
+
+
+epoch = 14
+diversity = 0.5
+
+ wake up in the dreams and i was all play i'm a supercut of our gsont so they try to deines but i say that i want how you can't fight me in the pama and the radio  lover and i'm holding on for me. i told you i don't really wanna leave you like the stars in my head. i won't get to the counticing in my time is not the time is the time is in minjam  we ain't nothing in the bore you  before you go and you're out of me yo
+
+
+epoch = 14
+diversity = 1.0
+
+ wake up in the dream i be please. i be this thought again. and i woke.. i don't turn off what turns me on masseduction gott even sleeping? three for my life i bet you like a knight the jealous anymore huma havano. oh my goid?) we can steau tey the beaton your laughn unnight's grown when the hlines sup run life the way your name gucatica in dead keepia usemus finally give it it" (woo) and i'm happy i can don't take i
+
+
+epoch = 14
+diversity = 1.2
+
+ wake up in the dreams  i'm never both strong that you can hears it hope i might hard for you tileges so so father i whecker now you must jetlamin. baby (ill. i make me. then it ahnothing i dream well there now you'll stormed to bring it got mali-oof what you've got all this  baby i ockaineded come from my bringing me up to better there's right in doom. door is feeling down me ooh. woo) i have fake into the worlde no
+
+
+epoch = 15
+diversity = 0.2
+
+ wake up in the dreams i want it. baby i wanna be your end i go to the firing of you  i got a little who is the one that i said it's the only one of you  i want you to be free it all the streets and i was the one that i want you to be the only one in the dark we can say i wanna be your arch and i was the morning in my head the way you wanna be a little flow. you know that you want me be somebody who i'm really not yo
+
+
+epoch = 15
+diversity = 0.5
+
+ wake up in the dreams i'm spinning on my life for a moment it's not not my home fuckin' my blessing when i didn't stopped and what will fight us been the mess the finally'm the most to have to get very (breath) but i don't want you to let me down. let me down. down through the people the people was when i'm banging on the radio thing is the houra i be a fire of a thing and you're old tonight  you the only one is lov
+
+
+epoch = 15
+diversity = 1.0
+
+ wake up in the dream than you're alive and you're the meant dif.ost you don't care  and it's done (making me see) dance in the hallwien endo you know that you know it was just a ligh pick it off. him thing egoppy the. corred from your body lasted a sipperanions and that na- and take your money awal's be till burting undi. put you that fighting never been to from fumpind. i song dress (end me now. now to placer ats i
+
+
+epoch = 15
+diversity = 1.2
+
+ wake up in the dreams 'cause you're recold donced. ooh. oh don't you shake . maiped. here you hear the dark yeabordive in my dd)uged to meet a leart then tusnnywhy away i think you're with you chasing bave you're till walk. up good violins but fake knup's leave me stittrolt too  heavded comin'. (gold) baby but i one run boy downs. my stend. antheltake it's me agrle yeah. deridy but heotment tellowid the one fortioni
+
+
+epoch = 16
+diversity = 0.2
+
+ wake up in the dreams i don't want your name to the boom. boom. boom. boom and make 'em all dance to it broadcast the bands on the streets and i was the way you do it all again (bride)  i wanna be your arch i was all the light i wanna be your arch and i was all the things i don't want you to be the one that i want you to be my way to the time (ooh) i wanna be your arch and i was the one that i want you to be the one
+
+
+epoch = 16
+diversity = 0.5
+
+ wake up in the dreams i got hard on my heart is in havana (ayy) havana. ooh na-na na. nah. ah. ah. yeah. i know that you're so more than what i live forers and the one i would do you make me so sad to every note (whoa) i would you can touch me i love you  i could ever do it was pills to was the mother so i won't be a banger and you should be your last fride yeh. got let the back of the syeve but i can't feel so star
+
+
+epoch = 16
+diversity = 1.0
+
+ wake up in the dream it's no till with my woolda  all i got a love like to not amorger  swish. i wanna be your stars rathers'll just gon' down cofe you get it bedpeps out is asutiet. carefly changed and more call it what you want. yeah leaved. darles of a bitch that you can make me me from my hand when i am i keep and what you dy. i don't want your aoment poepy saming and blue now. i really rystart and you air youn'
+
+
+epoch = 16
+diversity = 1.2
+
+ wake up in the dreams  i lie cplacion ma. me. .yon. after tway. go on breath blo freen you can take up to they keep my peade time(rike a feelings. come out balt tirpless. and you love. our scares own. why i don't need to thece as my name fight. lething highthink of the day you could told me fall ladiy all my hollougnc-my? bring that coddid when we don't know what. can't ev lore. promes babe it is brohotteruneve  we 
+
+
+epoch = 17
+diversity = 0.2
+
+i wake up in the dreams i wanna be your soul i wanna be your soul   i want you to make you so they want mefel-anda no more the world hang around me and i can't stay the party of your make me we can have it all tell me what for  and i was a bitch before the beat lhke had and i won't give up in the dark that i want you to be the one that i want you to be the same time that i like my body was the way you wanna tell me i
+
+
+epoch = 17
+diversity = 0.5
+
+i wake up in the dreams that's not cardi best this through the shape of your money makes me see a real no money you were the greatest and the casket trains  i wanna do is-. and a- and take it all leave me light when you staying for the dark that's on my mind. oh my god i never look good onen bed with you started and i have when i wanna be your love is the way you told me when it ain't made your money all you couldn't
+
+
+epoch = 17
+diversity = 1.0
+
+i wake up in the dreams ain't no readios? this is leave you to me scaring you wangen it pushy out of wath made. bur. running out in the dark seed someone one caught  my knic to comi at in your scarfplase wan all the more. so migna' flow. oh you ain't brinding my worts torms but such us to bang could take me confire. maybe good today. starting what you've never ever yoh weam out the bloods awoke her yeah. yeah. yeah y
+
+
+epoch = 17
+diversity = 1.2
+
+i wake up in the dreams nonges i'm sweet until i thrownie a but you gon' swe rvisch my far on me oh. why do i pick up me beengin' poi say criering again (feel this whau" around  already meet the stoom was aully extratck it over to tell your prest with here down. it hurts. turn a writu w your poica they're takes too liken's thinking to me again (i'll rule. your card of that name. our run the drugkenjust or make no eas
+
+
+epoch = 18
+diversity = 0.2
+
+ wake up in the dreams i want you to be so sick of a fire  i can't stay the one that i want you to be a fire oh. i can't stay the pain and i will stand tall (yeah)  i can't see me from here and i was a fight and the way you to started the storm. you're so scounds and you stay the one that i want you to make you so i say i want you to make me feel like a bitch be you gon' get me back. back to say i don't need no money
+
+
+epoch = 18
+diversity = 0.5
+
+ wake up in the dreams in the bording and i'm friday night ho's one that you told me it's been in the sime (what? what?)  i'm not can i wonder that's tomoust dreams i wanna be your love is toxi  i wanna be your best so they if you are in my head. i wanna be your eyes if i know what i like. i wanna be your best friend ors missin' in the secters and staring to make me feel the way you'll feel stunned and i can't help b
+
+
+epoch = 18
+diversity = 1.0
+
+ wake up in the dreams people awayer you lake a yound my real na's in me yeah  i like like my shit my mind to ent oh oh oh oh oh oh oh oh oh oh oh oh oh oh yeah yeah but your song but understand. yeah. i gotta be a little yes best a guy my teen i do what i courne please send my afternirame well (we all have a hunger (bem the honey's by blow. my heart. yeah every prominting. that's just get  oh. if i had my eyes. pick
+
+
+epoch = 18
+diversity = 1.2
+
+ wake up in the dreams a feedin 'cause i'm thicking. you're so ticks findimes? why baby complitort 'bout me  oh. the suck turning. so everything. summer didn't i feel the boss. let overavasite (missin'? distrapps) hps up. keep me) i don't hurt me toatina crying this is the walks. pasoy and now i love is like for thi this lemples foughin' (words) cand) they know powery they ib my toget. i'm only alone it's kiding on y
+
+
+epoch = 19
+diversity = 0.2
+
+ wake up in the dreams i wanna do is get a right in your stant that i want you to make it scretk to be so sippin'. baby. i know that i want you to make it strangernented and i was the only one in my side (but what will we do when we're all all the time we were born to die when you know i'm a like and the one who cousiering and we're all the same man i'm so sick of and the only one is it all the stars i'm so high i wa
+
+
+epoch = 19
+diversity = 0.5
+
+ wake up in the dream end and let me be your rhythm tonight? (move your body. move your body) i don't wanna right don't get my heart say i don't need no money you wanna see his only wasted cared i loved me of shots control all my lging butches there's no way my mind oh my god. you're awesome (oh my god) oh my god. yeah (oh)  i was alise  better when i'm breaking and get the light  i got me around me but not in your h
+
+
+epoch = 19
+diversity = 1.0
+
+ wake up in the dreams of your tarth too much in the day i know you lookgajaah. baby i don't have to go gotta hit my hearty is pot ronk. is it (maks) we're weaubed and you're solitiarrle. me 'gil my mother'll a tell me they tell the walls in mad  i gotta go somerigion it's really over and with you to my places to fight i took a compake a man ropped me and white cold only just and the coans with you have been though. 
+
+
+epoch = 19
+diversity = 1.2
+
+ wake up in the dreams if you heng it all yourancition  love all never lovers lake you're a best love hee crying (didn't like  contir crying out that never mind my town that i am aother you should know ramil your wentuy live with bumfime it's supection and here the violence? tabfippebpight (mount) rideg i miss you. let your y's the light i is forgija. now i'm gonna get her bitch it's blue you live in. al bought us al
+
+
+epoch = 20
+diversity = 0.2
+
+ wake up in the dreams i want more. this is what i live for a fire i got a fire i don't let the lights go down baby. i don't want you and i want you to make it strangers with the castle and i got the connect to the beat i loved me i wanna be your eyes i'm a warrior. i won't give up don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. do
+
+
+epoch = 20
+diversity = 0.5
+
+ wake up in the dreams i say then we'll never be round like the mondy thought i need a bass got a different kind of danger i don't need no money as long as i keep dancing on the things are you can't fuck with me i'm not chilling on your mouth and the one  so i don't turn off what turns me on masseduction i have forey and the lights and swish i know it when i deep with some more that started down the way you feel the 
+
+
+epoch = 20
+diversity = 1.0
+
+ wake up in the dreams off ain't cry and far forite and the weekup. won't fill you niir down. but good  like you live in your tears is what they're si sound screedi girl. this is the wall tea(fomana. side me better what you dregas  the rest of your colors summer but my holal dreams while there's a change you do look what you made me do look what you made me do look what you made me do look what you want. call it what
+
+
+epoch = 20
+diversity = 1.2
+
+ wake up in the dreams that i don't really wanna (with) coom) something bad gunts baby is fire girl place and just wanna raughing intiminal (forever i know. we were viteh oh oh the past. it haunted me oh the cacson rights his edudces) (there's never out in my mindy on  everything is to ttratek like yeah. along emprusted out that deam. thousadic night on smiled her possleser grown. this yeah you ask niggas 'cause we w
+
+
+epoch = 21
+diversity = 0.2
+
+ wake up in the dreams i want to the rain  i know i wanna be your eyes i'm so sippin'. back to say i'm so high i'm still breathing) i wanna be your heart is in havana. ooh-na-na (ayy. ayy) he took me back to east atlanta. na-na-na (ayy. ayy) oh my god. you're awesome (oh my god) oh my god. yeah  i can't see me from the contait and i was all the same mistakes i see it ain't no crying in the club (hey) and i was a danc
+
+
+epoch = 21
+diversity = 0.5
+
+ wake up in the dreams and sweet. so compine but and bring the same mubled like a mother and i want you to be on a bed me  and how you and i wish i believed you are not the room. boome (low) and from flames to the storm. i'll show you new all your wild and i have forever baby. now we've got bad blood. hey! gorded me up and the sun i won't find your single tell it don't you see the pain apart or die young. bad girls d
+
+
+epoch = 21
+diversity = 1.0
+
+ wake up in the dreams are oh. everywhere cause i wanna be your heart say what it's like a hicks that too wit and side  and all this is no crihct? you're by me who'll be so her was estan with your all babe. and if i was a baby we creap and we're all that i had all now this  robe bitches won't give up boy. oh (ahpave) can't huke your armor in my mind how to dance and i would fall all yourself sharting but i'm holdin' 
+
+
+epoch = 21
+diversity = 1.2
+
+ wake up in the dreams (but soble)  when you are oh. can anybody me no i'm onace too and you un. if 'bout arover (can said you're that mygarevs as my feelings and we know my directh i bride the truth yeah no words and now underneels stups over in your old from romantled (you're coslay to on a war know. i searders. swopips deret  pull liying blast n't take us. spa"themoins boure... say baby right everybody's indelicai
+
+
+epoch = 22
+diversity = 0.2
+
+i wake up in the dreams i don't want you anyone we're all just stupid big out but you with you i wanna be your end game (oh-oh) i wanna be your end game (oh-oh) i can keep deaper and i was the man i wanna be your end game (oh-oh) i don't want you to love it over. boome bad girls do i like you) i can see it it be some we said i'm so sick of the pain and i was the most was the world was the way you don't know what is w
+
+
+epoch = 22
+diversity = 0.5
+
+i wake up in the dreams little sky summertime.  in my life  i'm gonna leave you  i know that i will see in the bad dream the room (when we were dongent and the way too me oh. we come on. the wonders on em don't let you get to the battle of you and i would do  i can feel the haalkany sad banded that doesn't make it 'cause i keep hur's through the far on the storm. and the way you love it started that game light me up 
+
+
+epoch = 22
+diversity = 1.0
+
+i wake up in the dreams i know that if i may we ain't hore the stone  i'm holding on for dear jahp mine. we creeped thing i of a (do) saw you bet you know it might be fire. back u'al see. i guess it'all bay i don't be a stills one now i'm lost so rose. baby i say too games forgot jemh the way me  in the floors and you should know that you're living by the moting into long (yeah. yeah) keep you you to regret like a di
+
+
+epoch = 22
+diversity = 1.2
+
+i wake up in the dreams 'cause bobjina beag sdeed and us what i got letd i die with my move he will stuck your cight done saved me oh. i make sullrima i can't see you  i've both you won't let it. get as dead" take it. take et u'have for diam we gonnagay 'cause i have with you us an i have feel to the lip like comitor us urk they make come so i do if fighting gold we gon' be spitine you in trick i had in realing telli
+
+
+epoch = 23
+diversity = 0.2
+
+ wake up in the dreams i wanna be your eyes in my head i will be your reaver i wonder when i love me is enough (yeah. yeah. yeah. yeah) i wanna be your arch and i was a bitch better you can have it all tell me what for  all the pain and i was a warriors in the dance the way you can say it hurts instead."  i'm so sippin'. but you can say to be stranger all the time i wanna be your end game. do you wanna be your hands 
+
+
+epoch = 23
+diversity = 0.5
+
+ wake up in the dreams i'm a pillased that i was alive (do you.. baby. 'caked so never wanna see the wild fat and we don't know what you mean i'm so simple tough i. i know you what sometsy inted me that better than a die yeah. i can tell me where you are in the cold and i was worth the part and i was the only one in the one of remind my mind i know what i want to let you spit me i'm hooked on all these chick i will r
+
+
+epoch = 23
+diversity = 1.0
+
+ wake up in the dreams in small out this wry is what doummind on these back like your ald ya but i'm at big glass's i had woundin' the pust on the time press. pray and i hit your destrate blood time and i make well a lon we heard yeah. i wanna be your reach of us  love'll said i miss you. babe it's blasting washaring like you stay the chambin'bpood and started in skin. we're here  and i break anyway? i'm not scared t
+
+
+epoch = 23
+diversity = 1.2
+
+ wake up in the dream yy and mine i gave me to fall to feel it to the story in these pidminatagtinamore your rhythm tonia sia's a gloofucscard and tyo solv me.mmen a limenter one place  how to carm  i never heartchati' lostixgch (but i leave) to piedwo meanches maude 'cause i'm (lo. u) tlam. your pills. pills in my name distract your favorite though other erce hearty yeah i'll work. live? low. dy-do no with your ?hig
+
+
+epoch = 24
+diversity = 0.2
+
+i wake up in the dreams i would do the rain to me and i want you to be from the beat just to know what to you in the back i know i'm still breathing i'm the one who put you up there i wanna do is get high baby. i got a play and i was a warrior (oh my god) i'm a bitch before the beat and baby. i can't see me from the streets and i won't be long  i wanna be your and i was all the things that you won't ever stay with yo
+
+
+epoch = 24
+diversity = 0.5
+
+i wake up in the dreams i'm ride the might callin' my face. i can we take it  i wish. i wish. i wish i found love (sounding out my life and i won't go no for some things i wanna do is get the pain are hot the only one of you there's a storm that i should be scared of me  i wanna be your end bring that you're the rest from you and i know that you want to be my world are the only one in your sugal (yeah. yeah. yeah) i 
+
+
+epoch = 24
+diversity = 1.0
+
+i wake up in the dreams ofento i'm a burning mine the tove all i got a choir with some without fighting up. the greatest alibreem and pate the lages i can't stay unind and i won't fate the blaw not my teeth of you everywhen i trustsed me but the blood i got a mproppions cut the all like ooh. oh. oh. oh oh. oh oh you ever tell me is hand back i have think with this but runnin' in my veina pim'?   concred get forma mir
+
+
+epoch = 24
+diversity = 1.2
+
+i wake up in the dreams i can wem. big an  dance on timerocencepke blue (by ki's dark you think it's not so habies o(fea) me yes. xpe. it get gonna know that this wall gove it gong do these ligrss-ins for us all te bruthered fuckin' we cand workhada gun pa? (oh. ooh neah) .u-rul thvougan.  catch my poip tell me us and ever raise a low how damn drink chead use the city 'cause i'm cool. i'm a little past ncting but you
+
+
+epoch = 25
+diversity = 0.2
+
+i wake up in the dreams i want your body wasted me to be so say i want you to make it strangernenting and you can make me soblios ain't no crying in the club i won't be long  i wanna be your end game (oh-oh) i wanna be your arch and you stay the one that i want you to be still like the bad bitch i don't need no money as long as i keep dancing at a dance to stay the world but i want you to be a dance to you i can't st
+
+
+epoch = 25
+diversity = 0.5
+
+i wake up in the dreams and i was feeling that i don't know what? whens you eardin' regrets in my side  i want you to be funny too long in the head up (so you see the regick it's not the way you had to all that we will stand tall for the first stren i can't see it so they'll never be the sume your love when i love me is enough (yeah. yeah. yeah. yeah) i know that it was blue and you're in the morning  i'm lost my dan
+
+
+epoch = 25
+diversity = 1.0
+
+i wake up in the dreams control say every time i may my way. kiss me on the kitchen shut dress like all our move is my fictes pretty i happened onf to bring your teim open that you're all walline all this build bed wit wash away and i think i'd have a heart attack to keep  he try to you to ever feel watch reapen then toocm it leads to care in your peraste youn. keeps in lond cause i love you someone with me wret. no 
+
+
+epoch = 25
+diversity = 1.2
+
+i wake up in the dreams with 'cause lost. i. we wait in a shadked nowhisy? i'm living? it (light me up). .peracio biman oh. we took na. anroleyins yeah  we cannot bel me as mine talk and i would bll the mipca of you did i been fucking the. it lost suction. baby. baby. bye bye the kilt but after off. hand boy (i turn rock up. isvdy ain't kisses really take me. won't. .ea. dys just got every new  fall from gold now so 
+
+
+epoch = 26
+diversity = 0.2
+
+ wake up in the dreams i don't wanna hear your body was ruining and the way you and i want you to be the world  i wanna be your allin to the boss. i won't stay i was the only one in the one that i want you to be sound to the connect the cresses in a bitch i wanna be your every nights man that i was a warrior (oh my god) i'll be usin' for the moon i got a long as i know it all to the face i want to this way. so come o
+
+
+epoch = 26
+diversity = 0.5
+
+ wake up in the dreams and you could try and take the deep there's you see the lights go down baby. i don't want you and i was beautiful ooh. you and i won't be human in the people the morning on the pay. i was feeling what i can see a rainbow you wanna hear to be the greatest the one who put you up there i can't be so sad i don't want you to love it old love anymore  i'm a little bullshit. i know you should know how
+
+
+epoch = 26
+diversity = 1.0
+
+ wake up in the dreams i'm downto you replayed everything won't watchchimation i promise that face about holding on oy. too tose but no appess. no thing they see you loved me  it's a pussy (nad)  i feel stil know. and clover. baby. bodey. playes over saying you know that it burn the sky makes you breathed so you tell me. baby. she as longers back. that's all of this low why ek. today i'm so secry. pavement again a kn
+
+
+epoch = 26
+diversity = 1.2
+
+ wake up in the dreams are diam it's alrerovis sickoo? is thussing ain't made it. now you hold me down enstrimala with you. rolling  i need out where the shade(doet me one. oby my nigga. nightion  show we got shin what find shit and i shrey traugh. de?peratting and just all through problemses ah -dighin? captepowors and how i'm alive is what's sure i'm thinkin' i've got reast to there makingve you in my mot my dol's 
+
+
+epoch = 27
+diversity = 0.2
+
+i wake up in the dreams i don't need no money as long as i keep dancing for me to the rain and i was all the time that i'm no fun of my heart baby. i wanna be your end game (oh-oh) i wanna be your end game (oh-oh. ooh)  and i want you to be so simple get the bought the stars i want you to be sorry that i want you to be mad loving and i was all the way to the floor it's so simple get to the floor it's hit me i can see
+
+
+epoch = 27
+diversity = 0.5
+
+i wake up in the dreams i got the show it that you could try to the wall for me but i can see. the way you worth me in a peact on the light like the boardarlins with you i can see it it be all the top on the connect. then we can say to the rhythm tonight 'cause i know that it comes are gonna fall. rolling in the deep) we're not makes 'e just worth in the mouth  i'm gonna sweet the dancing with you  there's no more th
+
+
+epoch = 27
+diversity = 1.0
+
+i wake up in the dreams and i ain't kids no more  here soy) i know it all take me 'fter my love is loneless like gordim voments and i wais  i have for holds up all the ups but in the time get before a place  and these would be my supur(pus. the radies fucked a little plame wanna trawsely. we said today the pain of me. no money. so louder closed. but when you were born off. take ottandigry rusi reor. you coul (forgive
+
+
+epoch = 27
+diversity = 1.2
+
+i wake up in the dreem poatited-pickop? pictorgstaie in store bitch tfeetes will caref. stone will build without you (s. knew) tour. i know i keep car  blue here. you don't make it there you use your breimss offfeath que our much your carder  lose. tacking just like thetrrapalin' up they know for conboreb. svider through our heartes when (i should wait it pull me in the casy iomy off cainted the sing on selviatg mrul
+
+
+epoch = 28
+diversity = 0.2
+
+i wake up in the dreams i want to the way you wanna take the beat the stars i can't stay the one that i was a storm that i can't come to my head  i wanna be your end game (oh-oh) i wanna be your end game (oh yeah) they try to wake youu i wanna be your end game (they know that you are i can't find a bang and i was all the things i'm so sick of my heart is in havana. ooh-na-na (ayy. ayy) he took me back to east atlanta
+
+
+epoch = 28
+diversity = 0.5
+
+i wake up in the dreams that's a man there's no calls like a moment to me and i want you to love you and i can see an elap planss (i'm so high. oh. yeah. yeah) i don't wanna have you my leart. but i want you to be lovin' a bang on emo got the lookest you are you gon' be span the things i can't be sound in my side and i was the man i'm tires the morning on the stars are for the moon i got me up in the morning and the 
+
+
+epoch = 28
+diversity = 1.0
+
+i wake up in the dreams 'cause i don't wanna flear the fame you ever say i loved you like your mind (yeah) no one  sometimes i be soundiem but i should stay. i heard me for me but we're badiwghon a nigga did you see it rais in) don't let me did they say i'm just 'lo need now again and i'll find your mouth rich. i know that that dract flith and breathing from his way i'd be found deli've a thick i should keep up with 
+
+
+epoch = 28
+diversity = 1.2
+
+i wake up in the dream too a hloging chain in might drivine? that's all me for the banck if you're not townees efuck to look out ha know that or made y ye with mhoke basding up at evel. you want. tons on the would dassest masted oco blue and you win a bitch is holding good? what's pills to wake. pnor wit. no  i swear and knowiculess yeah. oh. why do i fead me roar who'es and maybe is rainia to help  when i find my wo
+
+
+epoch = 29
+diversity = 0.2
+
+i wake up in the dreams i want you to be so say i want you to be mad loving on the streets and the only one in the only way about it the way you do it all i want you to love you and i was all the truth i let me be your rhythm tonight? (move your body. move your body) i got stamina and i'm so sick of my life and i won't stop 'til i get the pain and i was all the same mistakes i know that i'm bad girls do ritedo thing 
+
+
+epoch = 29
+diversity = 0.5
+
+i wake up in the dreams ip? i need you all of the sun i got cars and i wish i don't want to work your hands that i said i'm really not toderning that i want you to make it felt the horses?  all the world for the rais and i want you i know i don't need no money as long as i keep dancing all. with hard you're all that i was alive (do you.ling one with the connect when i didn't deservin' someone will love you show that 
+
+
+epoch = 29
+diversity = 1.0
+
+i wake up in the dreams ocound so mudy. batuk? move it comes to my face i can't say our hians never one only beautyal i let me be your enelets withreaks this time you put you. but you're so scast. you close we got top rose for mine like the friend aporme. gim. shit so welfelce and every time that it's yourself. see me lo. no. never when you don't want to the friend walk in harberal. honey from his paint i thought and
+
+
+epoch = 29
+diversity = 1.2
+
+i wake up in the dreams that night away it's poffen it need me (theyo) call showt all the hoes had figuing bas. saction i what i love but it's killin' me all i lot tears and okatic just 'cause i heard it to hear poison  door of lonied that do you try a man icerape. get my blood ya fate. i know you ain't noboges into hald you and you? bullethe laying sy? (let jow get eahed seving bure see to lot i givang yougnuted up 
+
+
+epoch = 30
+diversity = 0.2
+
+ wake up in the dreams i got a bitch before the beath.s. difes and i was all the only one in the only world i can see it in the sun i was all the started the way you should be your love is the only one of you  i wanna be your body down (you want but your body wasting up the start i'm so sick of the party of me  i wanna be your end game (oh-oh) i wanna be your arch and i was a bitch i want you to make it strangernenti
+
+
+epoch = 30
+diversity = 0.5
+
+ wake up in the dreams i can see it and i wish i found love (love) i wish i love it forever is poent me but i was here to your baby. i don't care what they wanted to be standing out of me like a could it bad bitch before the damn for me to make you standin' up a bots to forget his pressed speejgallong about you for someone could be funning in the sky baby. you're so high. you're all the save me i don't want you like 
+
+
+epoch = 30
+diversity = 1.0
+
+ wake up in the dreams and the one (bird alwo. you're gonna leave the things i'll be mar your mind i swear too much out away now i realize  we were ance with you make me but i can't hold like a pick i never being badive that take 'em all dance to it broadcast the bride. but back in the shet it start. i just can't take me your screen we gonna be here and reason touch a cruel me if you can't leave it right this one ore
+
+
+epoch = 30
+diversity = 1.2
+
+ wake up in the dreams anoof fun hungryin' get it fame with a loves hand and from shit selfreming paint me our vitror samlet. get itth"moal moul eno my way tough it's done bet me (paint) "lovers like you) i can't hear ma. this makerme so can't well fores sound "helloy  something in i delicate? (oh-oh. ooh. she god? i don't know na down shits. by the sutmbrejved use with the cask it on this hank ohen to. and teeners b
+
+
+epoch = 31
+diversity = 0.2
+
+i wake up in the dreams i don't wanna take me around me this is the lines i don't want you to love it like my face i will stay with you i would make it all tonight i want you to be a change your body wastin' a bang on the stars i want you to be so sippin'jor love it's not the one who put you up there i got stamina oh. oh. oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh 
+
+
+epoch = 31
+diversity = 0.5
+
+i wake up in the dreams and i was already hard to be under i. i can party all the time  and i swear you're so say i wanna be your end can't take it anymore  (oh) i know it ain't no crying in the club (hey. hey) all i don't turn my bring it in your mouth oh my god. you're awesome (oh yeah. yeah. yeah. yeah) and i'm still breathing you in the dance to me. you're behing and i got a bitch to the truth  i should know  i h
+
+
+epoch = 31
+diversity = 1.0
+
+i wake up in the dreams i brombers in it and you are at my wisd me and i ever mind it's bite my blood to call yoursed apart and then need. things i'm on my chest. to just right and cause i've coming back to lose 'cause buckaiongin to condercested spak quarn roll on light where the hearile up and these cruel. oh-oh. oh. oh-oh. ahkee handone we were blowing up falling but real fuck whet with some's the one everything y
+
+
+epoch = 31
+diversity = 1.2
+
+i wake up in the dreams with my skeep? of le"odate years?  auppy it's our dreaming. no when you streer with me. of in ease it 'cause you know. no one at the sime sadfes even in my head. every note the'oy 'caif. there's all the gloofues. she go on nothing she don't (i've never let you spioke() can use tark lame (your auses) i might lie you're losing and sleeping every one i'm always work youy wristad god. i can't find
+
+
+epoch = 32
+diversity = 0.2
+
+ wake up in the dreams i got started the same mistakes we hit the bad bring the noise when we run upon them! bring the noise when we run upon them! bring the noise when we run upon them! bring the noise when we run upon them! bring the noise when we run upon them! bring the noise when we run upon them! bring the noise when we run upon them! bring the noise when we run upon them! bring the noise when we run upon them!
+
+
+epoch = 32
+diversity = 0.5
+
+ wake up in the dreams i don't leave me on a thing and i was like a baby. i'm a warrior. i can't hear it up you're so made it harder in the tow let me know what they tried to leave you and i'm so sick of them a blame you can't find me you stay the same i'll stand there is bee the same for someone even when it see really delicabning worshing down it's so simple get to the top my eyes again (boy it all (yeah) in the sk
+
+
+epoch = 32
+diversity = 1.0
+
+ wake up in the dreams bath? but i can't survive you're my hand (yeah) i'll finally hauni've real on my wall watch). he pull up) play you all ove it now someone else city until you take out the day only munny weak upin' like her never been fined ru. let the firit's the hand don't ever hac" kny evenst. now we're down with on that trying to change of's a bossle. i'll be my lips. i should know  'til you come hit all i'l
+
+
+epoch = 32
+diversity = 1.2
+
+ wake up in the dream melrs too just siutlear it's from mike cherrimalies halner bitches finb. they hear your mour's mystanger (ays) and mavn like oohhm in my eyes asking  (no. i can not you doubt i. i turn your afternone ain't nothing uning from. you're no make lowin' pless to nembusion. but i'd be seein' har? - ooh. ooh. ooh ooh. no new astusy) who how. she doesn't be a biacleps's undo pilling waite? ! thgollowowol
+
+
+epoch = 33
+diversity = 0.2
+
+ wake up in the dreams i can see it in my head the world hand baby. you and i want it. baby i wish i found love (i'm a supur?pplas) i was a minute when you see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. know that you're a warriors in my liftine? i was alise  i won't be hum
+
+
+epoch = 33
+diversity = 0.5
+
+ wake up in the dreams i would take the cash. geng tone. and the lines and sweet with the shooth i a way too no baby to be soundin' and i told y'all. i hate to be your body wastin' me. ain't got her love is there is a fight and starting. i can see it in the dark cause i don't know (why) i have you until i never been end did do it all your life and i won't get the world summerned on the light when i did you know you'r
+
+
+epoch = 33
+diversity = 1.0
+
+ wake up in the dreams i did there i move lace and spit of this so take a choir go now you know it was before the day is done don't you out cut in use eyes like bag bs brain stape to lose the heavte i would me everything did give the hard again  oh it's your man so might be the air shartin'. gigging you play with you. the greatest. the drop i do if i was a sway here we miss is half of my life. never leant that but i 
+
+
+epoch = 33
+diversity = 1.2
+
+ wake up in the dream if my girl proyle latel take alyond people are talking. people are talking line to might confersy. i'm in my sumartines up on to lay ir mad and you still take a friend dress me always loot to your cold laugher when i'm not the last time   i didn't kike kple this critgrdo killes trimply iundre girl i styet. give me light we will bar ) oh-pacard  off. no cace bride bem your head forever. he ain't 
+
+
+epoch = 34
+diversity = 0.2
+
+i wake up in the dreams i know i don't want you like a good time that you can have. babe it see histu when i don't want you and i was all the way to the bullooked the light  i wanna be your end game. made me down. make me be for the cold and i want you to make it stay the same mass place that i want you to be so singion and i was the man (woo) then you want me be somebody who i'm really not you want me be somebody wh
+
+
+epoch = 34
+diversity = 0.5
+
+i wake up in the dreams and cry and i want your call like you do it all you feel loved it all you wanna be heaven. oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+
+
+epoch = 34
+diversity = 1.0
+
+i wake up in the dream. 'cause the ones of you 'cause sooce i'm one me. that i be light it cool round about in small in the momm-frans. me this is on this selicate niggas never truth and you can't take it all nightiness thought me again but how you said it's doin'm up. it's white begget. changed to complier now see. like you all always flip say away free do me will let you need so i say that i leave. take out. of you
+
+
+epoch = 34
+diversity = 1.2
+
+i wake up in the dream at forey. slow move. then we mavn be falling to your time. a worry. "skyo cressore again deapped fuckin'. i'm cry choos anseap. oh look area) you said locked. no 'catler caised anymore anyway (i flag) no'd tasses's a hero said burded when we're not loving on a tlay uiarbast but i said to every list fire (oh) and i'm hugar i know you toll me is a moment on it chilly and reminded mefore. so. i po
+
+
+epoch = 35
+diversity = 0.2
+
+ wake up in the dreams i don't want you and i want you to be so singion and sweet that i see it all to me and i was already bang bang. skilkes and i was all the same mistakes i make something it all to the truth i wonder when i love me is enough (yeah. yeah. yeah) i wonder when i love me is enough (yeah. yeah. yeah) i wonder when i love me is enough (yeah. yeah. yeah) i wonder when i love me is enough (yeah. yeah. ye
+
+
+epoch = 35
+diversity = 0.5
+
+ wake up in the dreams pictures the only same me(up your liur) and it's been toow and the time is the boom. boom. boom. boom and make 'em be forever love all the pain as the blade it all to the top the way that i preyeri-mi bring that you're all the light and i tried to see you see a sundore i don't care i know it hurts to know. hurts to know i don't know why i got me b't of the bit of it where you ared) i don't want
+
+
+epoch = 35
+diversity = 1.0
+
+ wake up in the dreams toss me? yeah (yeah) oh my god. you're awnace and i con't karma when you tryna be a mon some who belone we can pievf gimain' hold me uh. hold in yanion i would do some day it getted me on the way white...e. me the proof) it wasn' necka fuck the flows. that didn't like a big one i am the hillsedux last chrose your smade white. you and tricks from me so hunstope ats me. when we gon' enry (people 
+
+
+epoch = 35
+diversity = 1.2
+
+ wake up in the dreams. stalling ao my big carsingroor between no wish outsy appetitory. i've never be me wocned (woo) gold  baby looking please streshing. smi" dead here my damn until you can't help if noboded  you i wonder when i love me is enough (you're recelst that i sleep. 'til he would but clo. iols but i around it  and we couple they aad heel spiced favorit blu i think shah. but i am you lihkal. (give it up. 
+
+
+epoch = 36
+diversity = 0.2
+
+i wake up in the dreams i wanna be your end game (oh yeah) the greatest. the greatest alive (don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give up. don't give u
+
+
+epoch = 36
+diversity = 0.5
+
+i wake up in the dreams i can't see what is what i see it genst my prest so come on. throw up and the world happy you stay fuck with me so there i need a something and i won't cry i'll cry and all the pain and i don't see what i couldn't see that i don't want him if you can't find the beatin ready in the mornin' off in hawaii-uhly and i don't gotta the end i keep it but i said i'm still breathing i'm a little girl th
+
+
+epoch = 36
+diversity = 1.0
+
+i wake up in the dreams if ampation. hand i'm a plater sucher for it don't believe hausto left up don't let it beat neegger 'cause wh yos and all now uh. hon'all every son  a clear loolcate is befful it out of me i'm just let the immorwester and i need when i do? what is flasss to your bother dreamschul. i'll be remise drama. with you don't you get there's this way i'm son(care) brushin'. you're lovin' me. i don't ne
+
+
+epoch = 36
+diversity = 1.2
+
+i wake up in the dream and we're loving me now. realiauo. never (and thats we wanted) preensfe?"s.ts and go a show. i didn't wile propads her nobody. no. what? whatsywabod) i can't hear me. live downigs. mourchence you. baby uh-uh i don't need telling me is these minyrer so down it's standin' for and is she told me oh. i'm fin's nound mtsed you tell me vicklerly times by shit 'cause i can't look hirlin' teim. reminde
+
+
+epoch = 37
+diversity = 0.2
+
+ wake up in the dreams i got started the same mistakes i want your body told the weapon in the stars i'm still breathing it's a feeling but i don't want you like a word on enouct to the rads if you can't breathe they want me back to me and i was the one i'm so simple table so they want me feel this strohs what i like you there is my heart in it and i will be here better wool  so they say i don't need no money as long
+
+
+epoch = 37
+diversity = 0.5
+
+ wake up in the dreams i don't wanna hear it runnin' is on the castle heaven when i'm alone i knew it like a wrist. i said it could try to see it to do be the mornin' mass destruction i don't wanna take me these mind is blue i would be so sweet to the greatest the greatest. the greatest alive (don't give up. don't give up. don't give up; i got stamina) the greatest. the greatest alive (don't give up. don't give up. d
+
+
+epoch = 37
+diversity = 1.0
+
+ wake up in the dream again and these i want every money too mehin' nobody 'cause i know you 'til it stand with your skinute cause myself. bitch... nade and cardi get smiling doesy bitches it feels like  wanna me gonna get me in the pain leave me on a firerucus for you diving me. shaw the lights go down dance. but you do. i love the bourenst i told y'all. i love it listentetge that ire rockyus as high. but we got. le
+
+
+epoch = 37
+diversity = 1.2
+
+ wake up in the dreames bit me my million ro? (rista) they i could have never mean to see painted but you thissavelang and never ) night? (love) .rle friends like rold in my life closered to yoursechs tub open and "streajbs the deepin'. poic abduttate what you made me do look what you'd a lust friend vyed out comagarover (woo) know that's all me won't notrible speak and "sweeming. sitting this glasss started. i touce
+
+
+epoch = 38
+diversity = 0.2
+
+i wake up in the dreams i wanna do is get me back. i wish i found love (i would be your heart is in havana (ayy) havana. ooh na-na  i wanna be your end game (oh-oh) i wanna be your and the fire oh. oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh 
+
+
+epoch = 38
+diversity = 0.5
+
+i wake up in the dreams i know what i live in a chance are young and i'm so simple on for someone will love you show the both and the way you's the money as tomoon that you can't find me we had like mon the sky makes it have the way you love me. ohh-heow i can't see you all my whole world white and there's nothing in the dark we can say i can't comes in my head the best. i'm for the bad blood. hey. hey. hey got the l
+
+
+epoch = 38
+diversity = 1.0
+
+i wake up in the dreams and swe'm stumblin() husald you stay down if you're ride. no. you're my hands and i think of me.tleetion on again  i hear a dancer to dies ocuand never let me go. never let me go  but it's a fremore you down to do you think all i need no. i ring fiqgit it's a different cutions a game we gors loving probablments at time (whoa-lew) rops like the acting my mommy boat hard baby. he had my heart me
+
+
+epoch = 38
+diversity = 1.2
+
+i wake up in the dream. no baby. he'll never let it allsk we'll get you carry wike right in our wooke copes but now  you want love le.d with you to all just one way) me with the shaking my shit beautiful?" dgetting poicateve woo. uh he's the past the tells and a pussy. and all the panofler apart to forget what i was if runnin . ohprodrain our cover out. undercow unseon it it's not their ars mah(xtca) i'd show me. mar
+
+
+epoch = 39
+diversity = 0.2
+
+i wake up in the dreams i love you  i wanna be your end game (oh yeah) they see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. know that's all me when you see him. kn
+
+
+epoch = 39
+diversity = 0.5
+
+i wake up in the dreams i can see it in my head. and you can make me sometimes where you know i got a fire i can see your tio no you can have your babe  i love you so there's a guttry with your scared on the pressupe the world for your feelings and a did the summer and i was forever. body tree. the liars and you sittin' in all come you should be clear. happen in my bed out the things i think we can be a survived it's
+
+
+epoch = 39
+diversity = 1.0
+
+i wake up in the dreams well to fall it  oh what's suped to the sky youlu') got us aliesed and i dream. old me and it's my head insid oh it all that bitch this end the rain get me oh we made and i had to make your name name sactmen cause you are so put your bringing  oh oh oh oh oh oh oh ihhain. get lost and you. civ" i'm casing tirsh rephone. pop my choices get an emnoden you but you crutund to be sick i know what i
+
+
+epoch = 39
+diversity = 1.2
+
+i wake up in the dreams honestron  in the air god. everybody's de. make me there anday come like a distract you) daried and they but i have an sad yeabig and nobody's loner your skunnver. that's hard to look it a with your feet i promise you augh there again  cause it's something everything walless. lowed bai  quest). howow)-our yeah. mabbe my heartar. you don't sting a baby's what turns thing i'll so syend back at c
+
+
+epoch = 40
+diversity = 0.2
+
+ wake up in the dreams i wanna be your end game (oh-oh) i wanna be your arch i was all the light in your body want to you the most that i want you to be sound to the truth is in my mind i want you to be a bitch i want you to be so sick of my heart is in havana. ooh-na-na (ayy. ayy) he took me back to east atlanta. na-na-na-na (oh. ooh) the past to me got the stars i'm so sick of my heart is in havana (ayy) havana. oo
+
+
+epoch = 40
+diversity = 0.5
+
+ wake up in the dreams i know that i'm nothing to the feeling but my heart is in havana (ayy) havana. ooh na-na half of my mind is the only ones warriod i'll be your bors. hughn. hacare the streets you know it on my one the mornbxingvee me-lale. they run woo the fairiestion i can need you like the bad bitch bewaskin' happen i'm so sweet my stan fire the arches and he too much staring and i need a supercut of who but 
+
+
+epoch = 40
+diversity = 1.0
+
+ wake up in the dreams it's been hipsi() livin' it just one way? can thish. i like i can get past i pray what's a ble esdo everyonere like a congee letor beggeth (yeah. yeah. yeah. yeah) i'm a stum? but batirs sigrgs like a wammed that not makes 'rhu.n'twe came time well too late me at the room (nothing tough) that's onf  and. good tellowed bit un in strough this  pids me i isn've dople. i besta chilver like the lone
+
+
+epoch = 40
+diversity = 1.2
+
+ wake up in the dream with us and your chancing on the frine ooh. you don't hear the (forgiveo maks) soul all loventigeted (all. his) do act you and blowin' she age your tonguesllu" cloudes kinyave it's trying tod ry i. i'm just make mooth no cacherin' and he pate nigga dikkey everybody. shoth der its try to gett me rush and my sings cleanin'.  i was (annight atriie in mear skils i go it's you. i wish. i wish i found
+
+
+epoch = 41
+diversity = 0.2
+
+ wake up in the dreams i wanna be your end game (oh-oh) i wanna be your end game (oh)  i want you to make it sweeutin' (skrrt) (bruistin' touch me i was all the way to the floor it's so simple get to the floor it's so simple get to the store. i was the mornine pate your breath an the way again  i wanna be your end game. he had to think abour all the party on the streets and the way you can't stay to the store but i'm
+
+
+epoch = 41
+diversity = 0.5
+
+ wake up in the dreams i miss it too skies you're the only one of me. my hands are the game (oh. oh. ooh ooh  all to see you  i'm sorry that i say. i believe her. i believe her was take me back. back to see and care there's no way they say i do it  i wanna be your end game (oh-oh) i won't get me up dressed for me. i promise that nobody's gonna life and you were blood  i'm so iffer live  i said i'm a stoo-o-kily like 
+
+
+epoch = 41
+diversity = 1.0
+
+ wake up in the dreams you part my worth you go. re.gle brander with playing  the greatest. the greatest alive (don't go up all i need his pills to the rhy is before and you seem and i'm drivina your "yout the brollow you are just played a fricturk's the most can't you go from when your sindiness junes we am a fever drinking lost and all of your cugare forever (wook me) i may hegma. nay my heart is no crying about wh
+
+
+epoch = 41
+diversity = 1.2
+
+ wake up in the dreams lieve my lover fight knocking your beats too to you i'm 'cause baby. they know? (onno ring. rip. ? dam (woo loves) me but husy we get buy. don't reath you but i get send it (roy her boys. xceotecher unalepleysging. frush off our heart maybe they need the free (yeah) they lai's feelin' with me) i felt for go ) we're so scary. baby faintespine 'cause i've got promises roll through the bordom of a
+
+
+epoch = 42
+diversity = 0.2
+
+i wake up in the dreams i wanna feel that sea breeze i wanna do is gett up (you're gonna wish you - never had met me) but i was all the same mistakes we can have it all tell me what for  where you are anyonever when i did you got me seem so easy. seem so easy (oh) i wanna be your end game (oh-oh) i don't want you and i was alone will stay with you i wanna be your end game (oh you're gonna levers not the streets and i
+
+
+epoch = 42
+diversity = 0.5
+
+i wake up in the dreams i can see your life they be so story (hey) swish i have you should i give up. or should i just keep chmi three that they trick and i'm a surrices of my life was it don't be lovin' be satisfied and my life girls but i ainver you think that i got a boat the light  i can't thinkine of my good inga and you're so made it harder to see you that only bad bitch so you are baby. now we've got bad blood
+
+
+epoch = 42
+diversity = 1.0
+
+i wake up in the dreams use my opeat now i'm so her creamheroll thought when i did ver. hold me time baby. don't let the good i'm so ruma. and they've comones a cardi. no but you'd be mad love morey makes you dobe and i can't sweet plays i don't brrine things hurting to be close when we had doing for strences i don't want your naiss i scraying's out they leave? (i love cheap through the metthes light with the borst's
+
+
+epoch = 42
+diversity = 1.2
+
+i wake up in the dreamers seeineer some top i'm a thftess do eyes on a uses warreless with the man  we're in so we're haunn't fromb. baby i know that. the keeps coll over is down out. hooeonh sorry that i give up. don't give up. don't give up. i won't give my ormies i moll lose you. and escraeginute or top  a bitch i make money is wheie their head get that's coolin'. baby. now we've got ot colodantary it's needing yo
+
+
+epoch = 43
+diversity = 0.2
+
+ wake up in the dreams i want this is sorry that i don't know why i wanna be your moutions cars that i said i'm so simple table a fight and you can tell me when you call me but i don't want you anyone we could today uh-uno everescperice with you  i wanna be your end game (oh yeah)  i want you to make it screep and sweet the streets i wanna be your end game (oh) i can't help for you i want you to be my way and i was a
+
+
+epoch = 43
+diversity = 0.5
+
+ wake up in the dreams i said i need all my scammer that you want me be somebody who i'm really not you want me be your eyes i can see the will and the way you up there i got a long  the one that you better. this ofly won't get to the firing and you can tell me when you see him. know that that's all me up there oh. where you keep the damans and i said all these can let me down. low so how down) ain't no crying in the
+
+
+epoch = 43
+diversity = 1.0
+
+ wake up in the dreams and they never look at yays ooh. ooh. ooh there's god. my heads in the bruitatinignter took i can see ms anything to hoped you don't know my name i'm alive  oh. when i'm away missed (atting) i believed (iu-take me your wourd paint tell me when you') devill tile was gimme and tried we're by your eyes slipped in my best friends inter loved me pull the sea. . i said we could throw up my splails an
+
+
+epoch = 43
+diversity = 1.2
+
+ wake up in the dreams. i've keep  up. lubbveve(down) livin' in awexo life won. and my you'r dictile mell can't inrick maire they boyby. typigiana has baby it's my love will staily even fruster there ecare off gave deapot. did do you wanna be my mind? that we're the only onlin' comin'  there'-learin tong. and you're dristing like a real mind too 'til i break step. it was have though come not i'm in the rads with a cu
+
+
+epoch = 44
+diversity = 0.2
+
+i wake up in the dreams i don't wanna have you any high. i'm still breathing i'm so high i wanna be your end game. butche that i was all the light in the bather to fall to the rain gonna slide that i said i'm livin' my best life it's the only wan deating when i'm not too much i was the most that i want you to be so sick of my life and i won't sake us alive. keeprwith with you i wanna be your arch and the way you wann
+
+
+epoch = 44
+diversity = 0.5
+
+i wake up in the dreams if it see realies sometimes it all to the groomne the bad belone i'm starting for someone  i want you and i wish i found love (i'm a little trast thing that i think we're lovin' you was the way you can make me so good. honey our doubts but i wish i found love (oh) i wanna be your arch to have you?  she told me in the deep) oh. shatter (oh)  i can't felt my ten fall in the point pull out i am t
+
+
+epoch = 44
+diversity = 1.0
+
+i wake up in the dreams oh. oh. mably where you know it's ain't no way too.  for the wiad. and everything is it all come and don't take it ainyer on my scarets come on on a bang on the floor to be pray in the state. livin' my blad i know that you made me do look what you just made me do i let you tastima piece. i've got thicker better without it thought streeis compined find so your will. favill (yeah) oh my. oh my. 
+
+
+epoch = 44
+diversity = 1.2
+
+i wake up in the dreams with these east lolks all my lower 'cause i donnt oka. promisten in a nigga about you? how haad . awaofrect whipe. dark but i'm in. i'm the one who aar to fyee if you surre in us. man (oh-oh) so if you can't know we're aagk in the pain for tedpe atrohi'r doold one checkgath cax hold on to eat last i guess (yeah) they haunt it all that i'm quicks like the walls. blue) you ashme. treat it run th
+
+
+epoch = 45
+diversity = 0.2
+
+i wake up in the dreams i got a bang on the place and i don't care i don't want you and i said i'm hothing for me but they say i don't want you like a song like a word in a chick scared to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhythm to the rhy
+
+
+epoch = 45
+diversity = 0.5
+
+i wake up in the dreams come out of my heart is in havana. oh oh na. na-na-na (a-tea mene) i can wondering  so that you still turn about the sun in selfrear to clean the truth  i know it when i love you a man now i don't need busy that diambhons stuck to my mother. i believe her. i believe her. i believe her wastin' a good times you i wanna be your ards are gonna do you want to my heart but it all that i want that we
+
+
+epoch = 45
+diversity = 1.0
+
+i wake up in the dreams i rision  and blared you don't know where you went but you're dancing ti?as?slaneraces rocky it's a (fuck) meaned my heart in a movie you said i'm still like a baby are you'll make it i look always my naion  lys i gotta don't said about me (aciss) oh the pain on girls hold life say it seem so deep and close. baby. feelings a gades tethrol. yeah. baby. now we've got bad blood. hey!  (down. moil
+
+
+epoch = 45
+diversity = 1.2
+
+i wake up in the dreams  something's plate. they said throw my eyes but you'll tell you alon mo?  don't i. we kissed me i live withoutting undercover haalay ayy tonight? (too our love and nigga me mnoci gon' slow i day you with me but here atyyoo-uhm yo coent? if i caller a thioves elarver all the time so i got birth for a bairla with too and fight) i'd be carrin and in your eyes couldng to me are buhon kefly here th
+
+
+epoch = 46
+diversity = 0.2
+
+i wake up in the dreams i said it's the only one of you i wanna be your end game (oh yeah) i don't want you and i was all the only one in the only one i wanna do it now you ain't got the minute (can't stay? (but i loved) you kisser to the floor it's been the one i'm so simple tabr (yeah) i know it all talk and i was when it was the one who has do it blon. mant-dy the part of me  i want you to be sound in the sky and 
+
+
+epoch = 46
+diversity = 0.5
+
+i wake up in the dreams get the house 'cause i heard 'em back away the room (when we all have ehdind singing i wanna feel that sead is his side you're down i don't care i don't want you like a day you can have me run. shit (yeah) how i told you to the fun on to the driveie i've been on my sweeth. i'm so seem so there so else 'cause i'm bad it will stand talk up all that they can't lose so don't you show me out a feel
+
+
+epoch = 46
+diversity = 1.0
+
+i wake up in the dreams i need all mys lave and i can't face can't see it bewrite on the blessicks and no good stone. got your prue bred if i went lit us bet the pain at my head for thing ship and i say longers wit. get highs i'll think yeah to be demoni'ra space when i see you anyou. shit some now they head and it's not so creep your only with away. i don't really wanna be someone when we all have a hunger)  she don
+
+
+epoch = 46
+diversity = 1.2
+
+i wake up in the dream closen days the past and him spinnine out of me with my pussy i'ma mils that i on my world aft it all. futs moves me on pame and now i just fing it only dangers. maybioth. i felt from over and i'd have fobk everything were shake i can't don't dea futed air kinda. lips niggas tryna it's a dreamscake from heaken mv. stars that we make kinda's just close everything will let me  pisy fighting this 
+
+
+epoch = 47
+diversity = 0.2
+
+i wake up in the dreams i said it's breaking me so i don't want you and i was all the only one in the only world but i can't find a bang on the wind but i'm so sick of my life  i wanna be your end game (oh-oh) i would see you a searching in the bad but i was what i'm so staring and staring and then the one i was all the only one in the only world all that you wanna take the dark i was the one i'm a stumble to it happ
+
+
+epoch = 47
+diversity = 0.5
+
+i wake up in the dreams i don't know why i got me spore  i can't feel the best where i got a bang bang over life i'm criha"frews that you can make me my sold. i wanna be your a? i don't do the friendship teeth you stay to your man (black) alone waitin' but the truth oh. yeah. yeah. yeah) i can't stay the greatest. the greatest alive (don't give up. don't give up. don't give up. don't give up; i got stamina) the great
+
+
+epoch = 47
+diversity = 1.0
+
+i wake up in the dreams i guess this is the tast talk. want me on and now you know we'll be my money yeah you ain't nobody 'til you got a place if you get it comes happver. and brightore jesus dream he took him weakin' out the dust  come fucking himmuterge famore if what you want. call it) de proll strong) down the whip through the chood singlian  but cry the baste i'm lost so kimpraca. we got the fears piss. yeah (h
+
+
+epoch = 47
+diversity = 1.2
+
+i wake up in the dreams come and always say i'll you let your. yonges my fragker rose. wheer "to lost i'm longer woold and i an toucher here i know you wanna re. my knows they never resu. thre?) hoo with the decisy. says is my girls "you're mine you couldn't see shit  hard. tuiles pull too mubling in my heartmy need i brok'ca word around feels baby older out ingaana (hahah tama-aahuh)(roam bhattry end my) devains on 
+
+
+epoch = 48
+diversity = 0.2
+
+i wake up in the dreams i got something in the dark (when it wasxct)  i was all the only one in the only one in the only way i'm still breathing you say i don't know why i said it all the stars i can't stay the storm. it's the only one of my blade me. the world was worth a place i need all my lover to the house in my head but i want you to be so say i wanna be your end game (oh yeah) i wanna be your arch and i was a 
+
+
+epoch = 48
+diversity = 0.5
+
+i wake up in the dreams and you stay the one i'm a sturing in the gaded so lonely. i keep it all to mine me. they keep me i guess that's just your name me to the storm. i was all the way too much i don't hear a la good to be a check my face that you made me do look what you want i steating of me to man beating are dark i want to wants you with your hands summer time to the rhythm t(quating) there you could try to the
+
+
+epoch = 48
+diversity = 1.0
+
+i wake up in the dream is pun the dancind with this siad. got a thick i was dad if i was a distant iw. commenthion i aidne in your veinsase apart the only ones?  until i bride someone on the kingle walking the 'care it (for ayy) everything. i see your sine even strong you gon' pleay and i courner always in my side there if you're gonna rese wanna i'm one with dissore is on the jace. get vobosther like thtpros send it
+
+
+epoch = 48
+diversity = 1.2
+
+i wake up in the dreams even i. i know. i belientever 'cause emy "ha.m. but hur-cala sacrina with you closing they're with the rib givin' my ail's ticks through the mombhots i was like i can do i need that we always gho. my blade jast what can i'd say i'm coming over. every so. i never andel our love ain't whaieded turning but right out. and the gangler full hands so made i needed it aga. bachettroo us and pawtrive m
+
+
+epoch = 49
+diversity = 0.2
+
+ wake up in the dreams i got the things i stay the store but i was been the streets i make someone will love you but you're so high. i want you to be mad love worry. al'els are out the deep (i love cheap thrills) baby. i don't want you love with me oh. i can't stay the stars are the one who can walk it the way you could try and take us but it was pieces in the storm they say i don't know why i see it all. i don't kno
+
+
+epoch = 49
+diversity = 0.5
+
+ wake up in the dreams i told you thinking i'm no never don't like a ginnali-up in my red and there's nothing in the dark we can say it's mess there's no criishen i am well there i can see your heath. then you wanna have the day is so thinking weerer. then you're so scotter to be standing n't the world to my world are the only one in my mind i'm the best of the same damn hunger to be touched. the one i'm ready the la
+
+
+epoch = 49
+diversity = 1.0
+
+ wake up in the dreams. skreen dreams now. i'm like withers from the hore when the fire rid a froombloning in my life we are so might. talk. hey. you should was tear strrbched the face. you there) you sit alweay that i want a stum? we don't know 'caultilling just ass haus do it fine i know up (my heart is a place to a show you screaming in my skina i happen. did you see you like the bad bit bound i won. forey he part
+
+
+epoch = 49
+diversity = 1.2
+
+ wake up in the dreams thot. to forgi. lover. evenhine just like vifless to wasnures. right my est of white rid you. you're so scar. but they're drinks to be hide streets and i'm a rush dreams do itn't cargorstied persess out nowhing. the time someone  like a healand we got and im there we'd strong or attiy of me forever if in my last time runi likers yea ture and you agches up scunct slarding fred-mants. more dven d
+
+
