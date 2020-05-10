@@ -1,1 +1,29 @@
 epoch,lyric
+epoch = 0
+diversity = 0.2
+loss = 1.763954773247968
+
+ wake up in the dreamon thing that you and i see it all i want to be something i'm a freak and i want to so water to so the start and i can see it i'm gonna got the start that i want to be the start in the good there we are it all the way i want to love you to be the start and i want to be a man i want the way i love you we to be your sead the start and i want to be the start on the start and i can't streed and i lik
+
+
+epoch = 0
+diversity = 0.5
+loss = 1.763954773247968
+
+ wake up in the dreamans and you don't go bat of come this there on it a that that i'm so the say i'm a girl and i love you thing that you i'm got the got a camitess and i am i don't call that i'm the with a foorne show the love up the more free up and there the was on for and i want to be on the set you  in my hand of the sime and i could the start on the stard at the made fire it's go. i got a from the readin' and 
+
+
+epoch = 0
+diversity = 1.0
+loss = 1.763954773247968
+
+ wake up in the dreatle somaund old tructeris in my sal tire ever of a bo it's do your want and my never so beat it'ver lay you alo. take a let ma ne if you'll nve? see here all i'll me no them down rnow beame and grow don't think we do propsed  there now ain't it din't hear who so run too lising don't can hem" dad as orty let the lines out our out think th. plan to dick don't get. the chucled you're loft a alweet 'c
+
+
+epoch = 0
+diversity = 1.2
+loss = 1.763954773247968
+
+ wake up in the dreams ar wromes and you lade a gatress goons thean geh. it've foget. up os my stim ored. i annere becker it's be your dirals by stronce. forget when i dart me. touch a back. it's dould't of me wrap you get strans. gut outoo  you're bead it weave? itgle hetergtle ney to devendit mo begievin' trabings why are iblandernes there and tolking. oh. ha-d  haw i ou? in your putchrnaple throwing wher in the cr
+
+
